@@ -9,3 +9,6 @@ Meatdata viewer for all world bank indicators (1488).
 * Auto download .xml and .csv indicator data files by clicking download links.
 
 ----------------------------------------------------------------------------------- 
+![Alt Text](metadata.png)
+
+----------------------------------------------------------------------------------
