@@ -12,3 +12,6 @@ Meatdata viewer for all world bank indicators (1488).
 ![Alt Text](metadata.png)
 
 ----------------------------------------------------------------------------------
+
+Created by 'Psico Communications'- 2024 - Yorkshire - England.
+All rights and permissions granted under Apache 2.0
