@@ -1,0 +1,6 @@
+{
+    "indicator": "EG.GDP.PUSE.KO.PP",
+    "metadata": "========\nSeries: EG.GDP.PUSE.KO.PP\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Restricted use: Please contact the International Energy Agency for third-party use of these data.\n--------\nIndicatorName: GDP per unit of energy use (PPP $ per kg of oil equivalent)\n--------\nLicense_Type: Use and distribution of these data are subject to IEA terms and conditions.\n--------\nLicense_URL: https://www.iea.org/terms\n--------\nLongdefinition: GDP per unit of energy use is the PPP GDP per kilogram of oil equivalent of energy use. PPP GDP is gross domestic product converted to current international dollars using purchasing power parity rates based on the 2017 ICP round. An international dollar has the same purchasing power over GDP as a U.S. dollar has in the United States.\n--------\nPeriodicity: Annual\n--------\nSource: IEA Statistics \u00a9 OECD/IEA 2014 (https://www.iea.org/data-and-statistics), subject to https://www.iea.org/terms/\n--------\nTopic: Environment: Energy production & use\n",
+    "url": "https://data.worldbank.org/indicator/EG.GDP.PUSE.KO.PP?view=chart",
+    "description": "GDP per unit of energy use (PPP $ per kg of oil equivalent)"
+}

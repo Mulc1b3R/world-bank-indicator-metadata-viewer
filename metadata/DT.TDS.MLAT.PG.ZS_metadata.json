@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.MLAT.PG.ZS",
+    "metadata": "========\nSeries: DT.TDS.MLAT.PG.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Multilateral debt service (% of public and publicly guaranteed debt service)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Multilateral debt service is the repayment of principal and interest to the World Bank, regional development banks, and other multilateral agencies. public and publicly guaranteed debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term obligations of public debtors and long-term private obligations guaranteed by a public entity.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Multilateral debt service is the repayment of principal and interest to the World Bank, regional development banks, and other multilateral agencies.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt ratios & other items\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.MLAT.PG.ZS?view=chart",
+    "description": "Multilateral debt service (% of public and publicly guaranteed debt service)"
+}

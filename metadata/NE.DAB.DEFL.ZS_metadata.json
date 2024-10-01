@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.DAB.DEFL.ZS",
+    "metadata": "========\nSeries: NE.DAB.DEFL.ZS\n\nIndicatorName: Gross national expenditure deflator (base year varies by country)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross national expenditure (formerly domestic absorption) is the sum of household final consumption expenditure (formerly private consumption), general government final consumption expenditure (formerly general government consumption), and gross capital formation (formerly gross domestic investment).\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Shares of GDP & other\n",
+    "url": "https://data.worldbank.org/indicator/NE.DAB.DEFL.ZS?view=chart",
+    "description": "Gross national expenditure deflator (base year varies by country)"
+}

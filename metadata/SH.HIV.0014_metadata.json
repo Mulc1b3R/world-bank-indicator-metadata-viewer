@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.HIV.0014",
+    "metadata": "========\nSeries: SH.HIV.0014\n\nIndicatorName: Children (0-14) living with HIV\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Children living with HIV refers to the number of children ages 0-14 who are infected with HIV.\n--------\nPeriodicity: Annual\n--------\nSource: UNAIDS estimates.\n--------\nTopic: Health: Risk factors\n",
+    "url": "https://data.worldbank.org/indicator/SH.HIV.0014?view=chart",
+    "description": "Children (0-14) living with HIV"
+}

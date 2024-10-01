@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.AST.DOMS.CN",
+    "metadata": "========\nSeries: FM.AST.DOMS.CN\n\nIndicatorName: Net domestic credit (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net domestic credit is the sum of net claims on the central government and claims on other sectors of the domestic economy (IFS line 32). Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FM.AST.DOMS.CN?view=chart",
+    "description": "Net domestic credit (current LCU)"
+}

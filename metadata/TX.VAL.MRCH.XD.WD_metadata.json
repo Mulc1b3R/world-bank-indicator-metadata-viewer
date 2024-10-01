@@ -1,0 +1,6 @@
+{
+    "indicator": "TX.VAL.MRCH.XD.WD",
+    "metadata": "========\nSeries: TX.VAL.MRCH.XD.WD\n\nBasePeriod: 2015\n--------\nIndicatorName: Export value index (2015 = 100)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Export values are the current value of exports (f.o.b.) converted to U.S. dollars and expressed as a percentage of the average for the base period (2015). UNCTAD's export value indexes are reported for most economies.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Export values are the current value of exports (f.o.b.) converted to U.S. dollars and expressed as a percentage of the average for the base period (2015). UNCTAD's export value indexes are reported for most economies.\n--------\nSource: United Nations Conference on Trade and Development\n--------\nTopic: Trade\n",
+    "url": "https://data.worldbank.org/indicator/TX.VAL.MRCH.XD.WD?view=chart",
+    "description": "Export value index (2015 = 100)"
+}

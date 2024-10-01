@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.HIV.PMTC.ZS",
+    "metadata": "========\nSeries: SH.HIV.PMTC.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Percentage of pregnant women with HIV who receive antiretroviral medicine for prevention of mother-to-child transmission (PMTCT).\n--------\nPeriodicity: Annual\n--------\nSource: UNAIDS estimates.\n--------\nTopic: Health: Risk factors\n",
+    "url": "https://data.worldbank.org/indicator/SH.HIV.PMTC.ZS?view=chart",
+    "description": "Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)"
+}

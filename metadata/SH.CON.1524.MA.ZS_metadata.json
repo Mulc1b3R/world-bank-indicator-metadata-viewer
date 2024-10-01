@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.CON.1524.MA.ZS",
+    "metadata": "========\nSeries: SH.CON.1524.MA.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Condom use, population ages 15-24, male (% of males ages 15-24)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Condom use, male is the percentage of the male population ages 15-24 who used a condom at last intercourse in the last 12 months.\n--------\nPeriodicity: Annual\n--------\nSource: Demographic and Health Surveys, and UNAIDS.\n--------\nTopic: Health: Disease prevention\n",
+    "url": "https://data.worldbank.org/indicator/SH.CON.1524.MA.ZS?view=chart",
+    "description": "Condom use"
+}

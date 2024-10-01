@@ -1,0 +1,6 @@
+{
+    "indicator": "BX.GSR.TOTL.CD",
+    "metadata": "========\nSeries: BX.GSR.TOTL.CD\n\nAggregationmethod: Gap-filled total\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Exports of goods, services and primary income (BoP, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Exports of goods, services and primary income is the sum of goods exports, service exports and primary income receipts. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Goods, services & income\n",
+    "url": "https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?view=chart",
+    "description": "Exports of goods"
+}

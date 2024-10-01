@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.MLR.NETS.ZS",
+    "metadata": "========\nSeries: SH.MLR.NETS.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Use of insecticide-treated bed nets (% of under-5 population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Use of insecticide-treated bed nets refers to the percentage of children under age five who slept under an insecticide-treated bednet to prevent malaria.\n--------\nPeriodicity: Annual\n--------\nSource: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.\n--------\nStatisticalconceptandmethodology: Malaria is endemic to the poorest countries in the world, mainly in tropical and subtropical regions of Africa, Asia, and the Americas. Insecticide-treated nets, properly used and maintained, are one of the most important malaria-preventive strategies to limit human-mosquito contact.\n--------\nTopic: Health: Disease prevention\n",
+    "url": "https://data.worldbank.org/indicator/SH.MLR.NETS.ZS?view=chart",
+    "description": "Use of insecticide-treated bed nets (% of under-5 population)"
+}

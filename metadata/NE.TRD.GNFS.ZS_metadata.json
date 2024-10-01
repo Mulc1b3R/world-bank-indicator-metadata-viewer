@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.TRD.GNFS.ZS",
+    "metadata": "========\nSeries: NE.TRD.GNFS.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Trade (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Shares of GDP & other\n",
+    "url": "https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS?view=chart",
+    "description": "Trade (% of GDP)"
+}

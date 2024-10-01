@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.NNTY.PC.CD",
+    "metadata": "========\nSeries: NY.ADJ.NNTY.PC.CD\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Adjusted net national income per capita (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD?view=chart",
+    "description": "Adjusted net national income per capita (current US$)"
+}

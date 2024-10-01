@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.DISC.KN",
+    "metadata": "========\nSeries: NY.GDP.DISC.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Discrepancy in expenditure estimate of GDP (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: A statistical discrepancy usually arises when the GDP components are estimated independently by industrial origin and by expenditure categories. This item represents the discrepancy in the use of resources (i.e., the estimate of GDP by expenditure categories). Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.DISC.KN?view=chart",
+    "description": "Discrepancy in expenditure estimate of GDP (constant LCU)"
+}

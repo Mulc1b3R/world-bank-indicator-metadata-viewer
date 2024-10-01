@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.MKTP.KN",
+    "metadata": "========\nSeries: NY.GDP.MKTP.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: GDP (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KN?view=chart",
+    "description": "GDP (constant LCU)"
+}

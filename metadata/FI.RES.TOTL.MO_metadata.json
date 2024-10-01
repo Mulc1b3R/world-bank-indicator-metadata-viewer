@@ -1,0 +1,6 @@
+{
+    "indicator": "FI.RES.TOTL.MO",
+    "metadata": "========\nSeries: FI.RES.TOTL.MO\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Total reserves in months of imports\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total reserves comprise holdings of monetary gold, special drawing rights, reserves of IMF members held by the IMF, and holdings of foreign exchange under the control of monetary authorities. The gold component of these reserves is valued at year-end (December 31) London prices. This item shows reserves expressed in terms of the number of months of imports of goods and services they could pay for [Reserves/(Imports/12)].\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Reserves & other items\n",
+    "url": "https://data.worldbank.org/indicator/FI.RES.TOTL.MO?view=chart",
+    "description": "Total reserves in months of imports"
+}

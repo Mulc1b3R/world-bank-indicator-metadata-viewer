@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.RSB.GNFS.CN",
+    "metadata": "========\nSeries: NE.RSB.GNFS.CN\n\nIndicatorName: External balance on goods and services (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: External balance on goods and services (formerly resource balance) equals exports of goods and services minus imports of goods and services (previously nonfactor services). Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.RSB.GNFS.CN?view=chart",
+    "description": "External balance on goods and services (current LCU)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.DPPF.XP.ZS",
+    "metadata": "========\nSeries: DT.TDS.DPPF.XP.ZS\n\nIndicatorName: Debt service to exports (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Debt service, the sum of principal repayments and interest actually paid in currency, goods, or services, is expressed as a percentage of exports of goods and services--all transactions between residents of a country and the rest of the world involving a change of ownership from residents to nonresidents of general merchandise, net exports of goods under merchanting, nonmonetary gold, and services. This series differs from the standard debt to exports series in that it covers only long-term public and publicly guaranteed debt and repayments (repurchases and charges) to the IMF.\n--------\nShortdefinition: Debt service (public and publicly guaranteed and IMF only, % of exports of goods, services and primary income)\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt service\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.DPPF.XP.ZS?view=chart",
+    "description": "Debt service (PPG and IMF only"
+}

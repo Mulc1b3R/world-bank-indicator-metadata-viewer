@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.LBL.BMNY.GD.ZS",
+    "metadata": "========\nSeries: FM.LBL.BMNY.GD.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: The derivation of this indicator was simplified in September 2012 to be current-year broad money divided by current-year GDP times 100.\n--------\nIndicatorName: Broad money (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Broad money (IFS line 35L..ZK) is the sum of currency outside banks; demand deposits other than those of the central government; the time, savings, and foreign currency deposits of resident sectors other than the central government; bank and traveler\u2019s checks; and other securities such as certificates of deposit and commercial paper.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Financial Sector: Monetary holdings (liabilities)\n",
+    "url": "https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS?view=chart",
+    "description": "Broad money (% of GDP)"
+}

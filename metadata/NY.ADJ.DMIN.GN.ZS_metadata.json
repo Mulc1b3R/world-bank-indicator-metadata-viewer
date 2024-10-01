@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.DMIN.GN.ZS",
+    "metadata": "========\nSeries: NY.ADJ.DMIN.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Adjusted savings: mineral depletion (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Mineral depletion is the ratio of the value of the stock of mineral resources to the remaining reserve lifetime (capped at 25 years). It covers tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.DMIN.GN.ZS?view=chart",
+    "description": "Adjusted savings: mineral depletion (% of GNI)"
+}

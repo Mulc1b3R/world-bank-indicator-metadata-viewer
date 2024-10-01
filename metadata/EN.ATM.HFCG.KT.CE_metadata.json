@@ -1,0 +1,6 @@
+{
+    "indicator": "EN.ATM.HFCG.KT.CE",
+    "metadata": "========\nSeries: EN.ATM.HFCG.KT.CE\n\nAggregationmethod: Gap-filled total\n--------\nIndicatorName: HFC gas emissions (thousand metric tons of CO2 equivalent)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Hydrofluorocarbons, used as a replacement for chlorofluorocarbons, are used mainly in refrigeration and semiconductor manufacturing.\n--------\nPeriodicity: Annual\n--------\nSource: European Commission, Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL). Emission Database for Global Atmospheric Research (EDGAR): http://edgar.jrc.ec.europa.eu/\n--------\nTopic: Environment: Emissions\n",
+    "url": "https://data.worldbank.org/indicator/EN.ATM.HFCG.KT.CE?view=chart",
+    "description": "HFC gas emissions (thousand metric tons of CO2 equivalent)"
+}

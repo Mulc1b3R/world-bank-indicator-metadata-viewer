@@ -1,0 +1,6 @@
+{
+    "indicator": "TX.VAL.MRCH.AL.ZS",
+    "metadata": "========\nSeries: TX.VAL.MRCH.AL.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Merchandise exports to economies in the Arab World (% of total merchandise exports)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Merchandise exports to economies in the Arab World are the sum of merchandise exports by the reporting economy to economies in the Arab World. Data are expressed as a percentage of total merchandise exports by the economy. Data are computed only if at least half of the economies in the partner country group had non-missing data.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based data from International Monetary Fund's Direction of Trade database.\n--------\nTopic: Private Sector & Trade: Exports\n",
+    "url": "https://data.worldbank.org/indicator/TX.VAL.MRCH.AL.ZS?view=chart",
+    "description": "Merchandise exports to economies in the Arab World (% of total merchandise exports)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.FPL.SATM.ZS",
+    "metadata": "========\nSeries: SH.FPL.SATM.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: This is the Sustainable Development Goal indicator 3.7.1 [https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Demand for family planning satisfied by modern methods (% of married women with demand for family planning)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Demand for family planning satisfied by modern methods refers to the percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods.\n--------\nPeriodicity: Annual\n--------\nSource: Demographic and Health Surveys (DHS).\n--------\nTopic: Health: Reproductive health\n",
+    "url": "https://data.worldbank.org/indicator/SH.FPL.SATM.ZS?view=chart",
+    "description": "Demand for family planning satisfied by modern methods (% of married women with demand for family planning)"
+}

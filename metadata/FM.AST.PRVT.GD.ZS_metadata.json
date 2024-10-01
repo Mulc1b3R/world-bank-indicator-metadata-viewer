@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.AST.PRVT.GD.ZS",
+    "metadata": "========\nSeries: FM.AST.PRVT.GD.ZS\n\nIndicatorName: Monetary Sector credit to private sector (% GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Domestic credit to private sector refers to financial resources provided to the private sector, such as through loans, purchases of nonequity securities, and trade credits and other accounts receivable, that establish a claim for repayment. For some countries these claims include credit to public enterprises.\n--------\nSource: International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FM.AST.PRVT.GD.ZS?view=chart",
+    "description": "Monetary Sector credit to private sector (% GDP)"
+}

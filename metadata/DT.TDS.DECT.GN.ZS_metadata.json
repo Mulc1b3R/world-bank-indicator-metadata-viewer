@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.DECT.GN.ZS",
+    "metadata": "========\nSeries: DT.TDS.DECT.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Total debt service (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt ratios & other items\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.DECT.GN.ZS?view=chart",
+    "description": "Total debt service (% of GNI)"
+}

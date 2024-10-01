@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.STA.TRAF.P5",
+    "metadata": "========\nSeries: SH.STA.TRAF.P5\n\nAggregationmethod: Weighted average\n--------\nDevelopmentrelevance: Road traffic injuries and deaths is a major global public health problem. Road traffic crashes are currently the leading cause of death for children and young adults in the world.  There is a strong association between the risk of road traffic death and the income level of countries.  The burden of road traffic deaths is disproportionately high among low- and middle-income countries.\n--------\nGeneralcomments: This is the Sustainable Development Goal indicator 3.6.1 [https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Mortality caused by road traffic injury (per 100,000 population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Mortality caused by road traffic injury is estimated road traffic fatal injury deaths per 100,000 population.\n--------\nPeriodicity: Annual\n--------\nSource: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).\n--------\nTopic: Health: Mortality\n",
+    "url": "https://data.worldbank.org/indicator/SH.STA.TRAF.P5?view=chart",
+    "description": "Mortality caused by road traffic injury (per 100"
+}

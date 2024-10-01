@@ -1,0 +1,6 @@
+{
+    "indicator": "EG.ELC.FOSL.ZS",
+    "metadata": "========\nSeries: EG.ELC.FOSL.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Restricted use: Please contact the International Energy Agency for third-party use of these data.\n--------\nIndicatorName: Electricity production from oil, gas and coal sources (% of total)\n--------\nLicense_Type: Use and distribution of these data are subject to IEA terms and conditions.\n--------\nLicense_URL: https://www.iea.org/terms\n--------\nLongdefinition: Sources of electricity refer to the inputs used to generate electricity. Oil refers to crude oil and petroleum products. Gas refers to natural gas but excludes natural gas liquids. Coal refers to all coal and brown coal, both primary (including hard coal and lignite-brown coal) and derived fuels (including patent fuel, coke oven coke, gas coke, coke oven gas, and blast furnace gas). Peat is also included in this category.\n--------\nPeriodicity: Annual\n--------\nSource: IEA Statistics \u00a9 OECD/IEA 2014 (https://www.iea.org/data-and-statistics), subject to https://www.iea.org/terms/\n--------\nTopic: Environment: Energy production & use\n",
+    "url": "https://data.worldbank.org/indicator/EG.ELC.FOSL.ZS?view=chart",
+    "description": "Electricity production from oil"
+}

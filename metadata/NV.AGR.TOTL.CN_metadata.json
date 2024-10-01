@@ -1,0 +1,6 @@
+{
+    "indicator": "NV.AGR.TOTL.CN",
+    "metadata": "========\nSeries: NV.AGR.TOTL.CN\n\nGeneralcomments: Note: Data for OECD countries are based on ISIC, revision 4.\n--------\nIndicatorName: Agriculture, forestry, and fishing, value added (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Agriculture, forestry, and fishing corresponds to ISIC divisions 1-3 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 4. Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Value added\n",
+    "url": "https://data.worldbank.org/indicator/NV.AGR.TOTL.CN?view=chart",
+    "description": "Agriculture"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "EN.POP.SLUM.UR.ZS",
+    "metadata": "========\nSeries: EN.POP.SLUM.UR.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Population living in slums (% of urban population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Population living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, housing durability, and security of tenure, as adopted in the Millennium Development Goal Target 7.D. The successor, the Sustainable Development Goal 11.1.1, considers inadequate housing (housing affordability) to complement the above definition of slums/informal settlements.\n--------\nPeriodicity: Annual\n--------\nSource: United Nations Human Settlements Programme (UN-HABITAT)\n--------\nTopic: Environment: Density & urbanization\n",
+    "url": "https://data.worldbank.org/indicator/EN.POP.SLUM.UR.ZS?view=chart",
+    "description": "Population living in slums (% of urban population)"
+}

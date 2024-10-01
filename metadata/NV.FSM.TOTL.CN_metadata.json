@@ -1,0 +1,6 @@
+{
+    "indicator": "NV.FSM.TOTL.CN",
+    "metadata": "========\nSeries: NV.FSM.TOTL.CN\n\nIndicatorName: Financial intermediary services indirectly Measured (FISIM) (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Financial intermediation services indirectly measured (FISIM) is an indirect measure of the value of financial intermediation services (i.e. output) provided but for which financial institutions do not charge explicitly as compared to explicit bank charges. Although the 1993 SNA recommends that the FISIM are allocated as intermediate and final consumption to the users, many countries still make a global (negative) adjustment to the sum of gross value added.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Value added\n",
+    "url": "https://data.worldbank.org/indicator/NV.FSM.TOTL.CN?view=chart",
+    "description": "Financial intermediary services indirectly Measured (FISIM) (current LCU)"
+}

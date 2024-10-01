@@ -1,0 +1,6 @@
+{
+    "indicator": "FX.OWN.TOTL.YG.ZS",
+    "metadata": "========\nSeries: FX.OWN.TOTL.YG.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Each economy is classified based on the classification of World Bank Group's fiscal year 2022 (July 1, 2021-June 30, 2022).\n--------\nIndicatorName: Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (young adults, % of population ages 15-24).\n--------\nPeriodicity: Triennial\n--------\nSource: Global Findex Database, World Bank (https://www.worldbank.org/en/publication/globalfindex).\n--------\nTopic: Financial Sector: Access\n",
+    "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.YG.ZS?view=chart",
+    "description": "Account ownership at a financial institution or with a mobile-money-service provider"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.SGR.IRSK.ZS",
+    "metadata": "========\nSeries: SH.SGR.IRSK.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Risk of impoverishing expenditure for surgical care (% of people at risk)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The proportion of population at risk of impoverishing expenditure when surgical care is required. Impoverishing expenditure is defined as direct out of pocket payments for surgical and anaesthesia care which drive people below a poverty threshold (using a threshold of $2.15 PPP/day).\n--------\nPeriodicity: Annual\n--------\nSource: The Program in Global Surgery and Social Change (PGSSC) at Harvard Medical School (https://www.pgssc.org/)\n--------\nTopic: Health: Risk factors\n",
+    "url": "https://data.worldbank.org/indicator/SH.SGR.IRSK.ZS?view=chart",
+    "description": "Risk of impoverishing expenditure for surgical care (% of people at risk)"
+}

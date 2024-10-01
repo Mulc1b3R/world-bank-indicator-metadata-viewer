@@ -1,0 +1,6 @@
+{
+    "indicator": "SP.POP.4044.MA.5Y",
+    "metadata": "========\nSeries: SP.POP.4044.MA.5Y\n\nIndicatorName: Population ages 40-44, male (% of male population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Male population between the ages 40 to 44 as a percentage of the total male population.\n--------\nPeriodicity: Annual\n--------\nSource: United Nations Population Division. World Population Prospects: 2022 Revision.\n--------\nTopic: Health: Population: Structure\n",
+    "url": "https://data.worldbank.org/indicator/SP.POP.4044.MA.5Y?view=chart",
+    "description": "Population ages 40-44"
+}

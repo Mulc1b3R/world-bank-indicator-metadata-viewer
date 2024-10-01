@@ -1,0 +1,6 @@
+{
+    "indicator": "TT.PRI.MRCH.XD.WD",
+    "metadata": "========\nSeries: TT.PRI.MRCH.XD.WD\n\nBasePeriod: 2015\n--------\nIndicatorName: Net barter terms of trade index (2015 = 100)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2015.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2015.\n--------\nSource: United Nations Conference on Trade and Development\n--------\nTopic: Trade\n",
+    "url": "https://data.worldbank.org/indicator/TT.PRI.MRCH.XD.WD?view=chart",
+    "description": "Net barter terms of trade index (2015 = 100)"
+}

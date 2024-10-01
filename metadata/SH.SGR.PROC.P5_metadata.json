@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.SGR.PROC.P5",
+    "metadata": "========\nSeries: SH.SGR.PROC.P5\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Number of surgical procedures (per 100,000 population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The number of procedures undertaken in an operating theatre per 100,000 population per year in each country. A procedure is defined as the incision, excision, or manipulation of tissue that needs regional or general anaesthesia, or profound sedation to control pain.\n--------\nPeriodicity: Annual\n--------\nSource: Data from various sources compiled by the Lancet Commission on Global Surgery (www.lancetglobalsurgery.org) and the Center for Health Equity in Surgery and Anesthesia at UCSF Medical Center.\n--------\nTopic: Health: Health systems\n",
+    "url": "https://data.worldbank.org/indicator/SH.SGR.PROC.P5?view=chart",
+    "description": "Number of surgical procedures (per 100"
+}

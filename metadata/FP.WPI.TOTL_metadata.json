@@ -1,0 +1,6 @@
+{
+    "indicator": "FP.WPI.TOTL",
+    "metadata": "========\nSeries: FP.WPI.TOTL\n\nBasePeriod: 2010\n--------\nIndicatorName: Wholesale price index (2010 = 100)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Wholesale price index refers to a mix of agricultural and industrial goods at various stages of production and distribution, including import duties. The Laspeyres formula is generally used.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nStatisticalconceptandmethodology: Wholesale price indexes are based on the prices at the first commercial transaction of commodities that are important in a country's output or consumption. Prices are farm-gate for agricultural commodities and ex-factory for industrial goods. Preference is given to indexes with the broadest coverage of the economy.\n--------\nTopic: Financial Sector: Exchange rates & prices\n",
+    "url": "https://data.worldbank.org/indicator/FP.WPI.TOTL?view=chart",
+    "description": "Wholesale price index (2010 = 100)"
+}

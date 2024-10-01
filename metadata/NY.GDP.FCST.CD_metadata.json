@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.FCST.CD",
+    "metadata": "========\nSeries: NY.GDP.FCST.CD\n\nAggregationmethod: Gap-filled total\n--------\nIndicatorName: Gross value added at basic prices (GVA) (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross value added at basic prices (formerly GDP at factor cost) is derived as the sum of the value added in the agriculture, industry and services sectors. If the value added of these sectors is calculated at purchaser values, gross value added at basic prices is derived by subtracting net product taxes from GDP. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.FCST.CD?view=chart",
+    "description": "Gross value added at basic prices (GVA) (current US$)"
+}

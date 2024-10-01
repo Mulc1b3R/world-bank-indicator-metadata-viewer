@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.PCAP.KD",
+    "metadata": "========\nSeries: NY.GDP.PCAP.KD\n\nAggregationmethod: Weighted average\n--------\nBasePeriod: 2015\n--------\nIndicatorName: GDP per capita (constant 2015 US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2015 U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nStatisticalconceptandmethodology: For more information, see the metadata for constant U.S. dollar GDP (NY.GDP.MKTP.KD) and total population (SP.POP.TOTL).\n--------\nTopic: Economic Policy & Debt: National accounts: US$ at constant 2015 prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD?view=chart",
+    "description": "GDP per capita (constant 2015 US$)"
+}

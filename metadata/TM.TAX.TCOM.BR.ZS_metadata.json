@@ -1,0 +1,6 @@
+{
+    "indicator": "TM.TAX.TCOM.BR.ZS",
+    "metadata": "========\nSeries: TM.TAX.TCOM.BR.ZS\n\nIndicatorName: Bound rate, simple mean, primary products (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Simple mean bound rate is the unweighted average of all the lines in the tariff schedule in which bound rates have been set. Bound rates result from trade negotiations incorporated into a country's schedule of concessions and are thus enforceable. Primary products are commodities classified in SITC revision 3 sections 0-4 plus division 68 (nonferrous metals).\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Simple mean bound rate is the unweighted average of all the lines in the tariff schedule in which bound rates have been set. Primary products are commodities classified in SITC revision 3 sections 0-4 plus division 68 (nonferrous metals).\n--------\nSource: World Bank staff estimates using the World Integrated Trade Solution system, based on data from World Trade Organization.\n--------\nTopic: Private Sector & Trade: Tariffs\n",
+    "url": "https://data.worldbank.org/indicator/TM.TAX.TCOM.BR.ZS?view=chart",
+    "description": "Bound rate"
+}

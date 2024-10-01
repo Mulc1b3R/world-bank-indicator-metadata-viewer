@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.GDI.FPRV.CN",
+    "metadata": "========\nSeries: NE.GDI.FPRV.CN\n\nIndicatorName: Gross fixed capital formation, private sector (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Private investment covers gross outlays by the private sector (including private nonprofit agencies) on additions to its fixed domestic assets.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.GDI.FPRV.CN?view=chart",
+    "description": "Gross fixed capital formation"
+}

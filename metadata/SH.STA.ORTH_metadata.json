@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.STA.ORTH",
+    "metadata": "========\nSeries: SH.STA.ORTH\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Diarrhea treatment (% of children under 5 who received ORS packet)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Percentage of children under age 5 with diarrhea in the two weeks preceding the survey who received oral rehydration salts (ORS packets or pre-packaged ORS fluids).\n--------\nPeriodicity: Annual\n--------\nSource: UNICEF, State of the World's Children, Childinfo, and Demographic and Health Surveys.\n--------\nTopic: Health: Disease prevention\n",
+    "url": "https://data.worldbank.org/indicator/SH.STA.ORTH?view=chart",
+    "description": "Diarrhea treatment (% of children under 5 who received ORS packet)"
+}

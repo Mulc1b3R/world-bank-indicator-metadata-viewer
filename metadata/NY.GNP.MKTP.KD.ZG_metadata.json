@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GNP.MKTP.KD.ZG",
+    "metadata": "========\nSeries: NY.GNP.MKTP.KD.ZG\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: GNI growth (annual %)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Growth rates\n",
+    "url": "https://data.worldbank.org/indicator/NY.GNP.MKTP.KD.ZG?view=chart",
+    "description": "GNI growth (annual %)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.EXP.CAPM.KN",
+    "metadata": "========\nSeries: NY.EXP.CAPM.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Exports as a capacity to import (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Exports as a capacity to import equals the current price value of exports of goods and services deflated by the import price index. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Other items\n",
+    "url": "https://data.worldbank.org/indicator/NY.EXP.CAPM.KN?view=chart",
+    "description": "Exports as a capacity to import (constant LCU)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "FI.RES.TOTL.DT.ZS",
+    "metadata": "========\nSeries: FI.RES.TOTL.DT.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Total reserves (% of total external debt)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: International reserves to total external debt stocks.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Reserves & other items\n",
+    "url": "https://data.worldbank.org/indicator/FI.RES.TOTL.DT.ZS?view=chart",
+    "description": "Total reserves (% of total external debt)"
+}

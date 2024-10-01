@@ -1,0 +1,6 @@
+{
+    "indicator": "TM.TAX.TCOM.IP.ZS",
+    "metadata": "========\nSeries: TM.TAX.TCOM.IP.ZS\n\nIndicatorName: Share of tariff lines with international peaks, primary products (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Share of tariff lines with international peaks is the share of lines in the tariff schedule with tariff rates that exceed 15 percent. It provides an indication of how selectively tariffs are applied. Primary products are commodities classified in SITC revision 3 sections 0-4 plus division 68 (nonferrous metals).\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Share of tariff lines with international peaks is the share of lines in the tariff schedule with tariff rates that exceed 15 percent. Primary products are commodities classified in SITC revision 3 sections 0-4 plus division 68 (nonferrous metals).\n--------\nSource: World Bank staff estimates using the World Integrated Trade Solution system, based on data from United Nations Conference on Trade and Development's Trade Analysis and Information System (TRAINS) database.\n--------\nTopic: Private Sector & Trade: Tariffs\n",
+    "url": "https://data.worldbank.org/indicator/TM.TAX.TCOM.IP.ZS?view=chart",
+    "description": "Share of tariff lines with international peaks"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.NNAT.GN.ZS",
+    "metadata": "========\nSeries: NY.ADJ.NNAT.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Adjusted savings: net national savings (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net national savings are equal to gross national savings less the value of consumption of fixed capital.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.NNAT.GN.ZS?view=chart",
+    "description": "Adjusted savings: net national savings (% of GNI)"
+}

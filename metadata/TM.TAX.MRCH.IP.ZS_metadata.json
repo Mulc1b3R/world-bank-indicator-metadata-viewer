@@ -1,0 +1,6 @@
+{
+    "indicator": "TM.TAX.MRCH.IP.ZS",
+    "metadata": "========\nSeries: TM.TAX.MRCH.IP.ZS\n\nIndicatorName: Share of tariff lines with international peaks, all products (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Share of tariff lines with international peaks is the share of lines in the tariff schedule with tariff rates that exceed 15 percent. It provides an indication of how selectively tariffs are applied.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Share of tariff lines with international peaks is the share of lines in the tariff schedule with tariff rates that exceed 15 percent.\n--------\nSource: World Bank staff estimates using the World Integrated Trade Solution system, based on data from United Nations Conference on Trade and Development's Trade Analysis and Information System (TRAINS) database.\n--------\nTopic: Private Sector & Trade: Tariffs\n",
+    "url": "https://data.worldbank.org/indicator/TM.TAX.MRCH.IP.ZS?view=chart",
+    "description": "Share of tariff lines with international peaks"
+}

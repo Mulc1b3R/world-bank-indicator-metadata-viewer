@@ -1,0 +1,6 @@
+{
+    "indicator": "FS.AST.DOMO.GD.ZS",
+    "metadata": "========\nSeries: FS.AST.DOMO.GD.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Claims on other sectors of the domestic economy (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Claims on other sectors of the domestic economy (IFS line 52S or 32S) include gross credit from the financial system to households, nonprofit institutions serving households, nonfinancial corporations, state and local governments, and social security funds.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FS.AST.DOMO.GD.ZS?view=chart",
+    "description": "Claims on other sectors of the domestic economy (% of GDP)"
+}

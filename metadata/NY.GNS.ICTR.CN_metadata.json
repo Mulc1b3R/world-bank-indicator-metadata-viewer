@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GNS.ICTR.CN",
+    "metadata": "========\nSeries: NY.GNS.ICTR.CN\n\nIndicatorName: Gross savings (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross savings are calculated as gross national income less total consumption, plus net transfers. Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.GNS.ICTR.CN?view=chart",
+    "description": "Gross savings (current LCU)"
+}

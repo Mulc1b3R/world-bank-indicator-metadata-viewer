@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.DEFL.KD.ZG",
+    "metadata": "========\nSeries: NY.GDP.DEFL.KD.ZG\n\nAggregationmethod: Median\n--------\nIndicatorName: Inflation, GDP deflator (annual %)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Inflation as measured by the annual growth rate of the GDP implicit deflator shows the rate of price change in the economy as a whole. The GDP implicit deflator is the ratio of GDP in current local currency to GDP in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Financial Sector: Exchange rates & prices\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG?view=chart",
+    "description": "Inflation"
+}

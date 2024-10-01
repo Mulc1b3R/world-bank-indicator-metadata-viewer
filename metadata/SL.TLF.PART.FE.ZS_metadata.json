@@ -1,0 +1,6 @@
+{
+    "indicator": "SL.TLF.PART.FE.ZS",
+    "metadata": "========\nSeries: SL.TLF.PART.FE.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Relevance to gender indicator: More and more women are working part-time and one of the concern is that part time work does not provide the stability that full time work does.\n--------\nIndicatorName: Part time employment, female (% of total female employment)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Part time employment refers to regular employment in which working time is substantially less than normal. Definitions of part time employment differ by country.\n--------\nPeriodicity: Annual\n--------\nSource: International Labour Organization. \u201cWages and Working Time Statistics database (COND)\u201d ILOSTAT. Accessed September 06, 2024. https://ilostat.ilo.org/data/.\n--------\nTopic: Social Protection & Labor: Economic activity\n",
+    "url": "https://data.worldbank.org/indicator/SL.TLF.PART.FE.ZS?view=chart",
+    "description": "Part time employment"
+}

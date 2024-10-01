@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.AST.NFRG.CN",
+    "metadata": "========\nSeries: FM.AST.NFRG.CN\n\nIndicatorName: Net foreign assets (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net foreign assets are the sum of foreign assets held by monetary authorities and deposit money banks, less their foreign liabilities. Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FM.AST.NFRG.CN?view=chart",
+    "description": "Net foreign assets (current LCU)"
+}

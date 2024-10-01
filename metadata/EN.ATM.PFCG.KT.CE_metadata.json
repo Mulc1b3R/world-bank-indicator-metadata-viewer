@@ -1,0 +1,6 @@
+{
+    "indicator": "EN.ATM.PFCG.KT.CE",
+    "metadata": "========\nSeries: EN.ATM.PFCG.KT.CE\n\nAggregationmethod: Gap-filled total\n--------\nIndicatorName: PFC gas emissions (thousand metric tons of CO2 equivalent)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Perfluorocarbons, used as a replacement for chlorofluorocarbons in manufacturing semiconductors, are a byproduct of aluminum smelting and uranium enrichment.\n--------\nPeriodicity: Annual\n--------\nSource: European Commission, Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL). Emission Database for Global Atmospheric Research (EDGAR): http://edgar.jrc.ec.europa.eu/\n--------\nTopic: Environment: Emissions\n",
+    "url": "https://data.worldbank.org/indicator/EN.ATM.PFCG.KT.CE?view=chart",
+    "description": "PFC gas emissions (thousand metric tons of CO2 equivalent)"
+}

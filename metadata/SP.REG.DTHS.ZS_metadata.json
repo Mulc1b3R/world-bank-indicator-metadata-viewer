@@ -1,0 +1,6 @@
+{
+    "indicator": "SP.REG.DTHS.ZS",
+    "metadata": "========\nSeries: SP.REG.DTHS.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Completeness of death registration with cause-of-death information (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Completeness of death registration is the estimated percentage of deaths that are registered with their cause of death information in the vital registration system of a country.\n--------\nPeriodicity: Annual\n--------\nSource: World Health Organization, Global Health Observatory Data Repository/World Health Statistics (http://apps.who.int/gho/data/node.main.1?lang=en).\n--------\nTopic: Health: Population: Dynamics\n",
+    "url": "https://data.worldbank.org/indicator/SP.REG.DTHS.ZS?view=chart",
+    "description": "Completeness of death registration with cause-of-death information (%)"
+}

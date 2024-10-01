@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.CON.PRVT.KN",
+    "metadata": "========\nSeries: NE.CON.PRVT.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Household and NPISHs Final consumption expenditure (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Household and NPISHs final consumption expenditure (formerly private consumption) is the market value of all goods and services, including durable products (such as cars, washing machines, and home computers), purchased by households. It excludes purchases of dwellings but includes imputed rent for owner-occupied dwellings. It also includes payments and fees to governments to obtain permits and licenses. This indicator includes the expenditures of nonprofit institutions serving households even when reported separately by the country. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.CON.PRVT.KN?view=chart",
+    "description": "Households and NPISHs Final consumption expenditure (constant LCU)"
+}

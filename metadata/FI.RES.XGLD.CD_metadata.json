@@ -1,0 +1,6 @@
+{
+    "indicator": "FI.RES.XGLD.CD",
+    "metadata": "========\nSeries: FI.RES.XGLD.CD\n\nIndicatorName: Total reserves minus gold (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total reserves minus gold comprise special drawing rights, reserves of IMF members held by the IMF, and holdings of foreign exchange under the control of monetary authorities. Gold holdings are excluded. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Reserves & other items\n",
+    "url": "https://data.worldbank.org/indicator/FI.RES.XGLD.CD?view=chart",
+    "description": "Total reserves minus gold (current US$)"
+}

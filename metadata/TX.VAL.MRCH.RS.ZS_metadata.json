@@ -1,0 +1,6 @@
+{
+    "indicator": "TX.VAL.MRCH.RS.ZS",
+    "metadata": "========\nSeries: TX.VAL.MRCH.RS.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Merchandise exports by the reporting economy, residual (% of total merchandise exports)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Merchandise exports by the reporting economy residuals are the total merchandise exports by the reporting economy to the rest of the world as reported in the IMF's Direction of trade database, less the sum of exports by the reporting economy to high-, low-, and middle-income economies according to the World Bank classification of economies. Includes trade with unspecified partners or with economies not covered by World Bank classification. Data are as a percentage of total merchandise exports by the economy.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based data from International Monetary Fund's Direction of Trade database.\n--------\nTopic: Private Sector & Trade: Exports\n",
+    "url": "https://data.worldbank.org/indicator/TX.VAL.MRCH.RS.ZS?view=chart",
+    "description": "Merchandise exports by the reporting economy"
+}

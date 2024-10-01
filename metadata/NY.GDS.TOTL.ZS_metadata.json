@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDS.TOTL.ZS",
+    "metadata": "========\nSeries: NY.GDS.TOTL.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Gross domestic savings (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross domestic savings are calculated as GDP less final consumption expenditure (total consumption).\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Shares of GDP & other\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDS.TOTL.ZS?view=chart",
+    "description": "Gross domestic savings (% of GDP)"
+}

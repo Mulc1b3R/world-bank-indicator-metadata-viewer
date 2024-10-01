@@ -1,0 +1,6 @@
+{
+    "indicator": "ST.INT.TVLX.CD",
+    "metadata": "========\nSeries: ST.INT.TVLX.CD\n\nAggregationmethod: Gap-filled total\n--------\nIndicatorName: International tourism, expenditures for travel items (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: International tourism expenditures are expenditures of international outbound visitors in other countries. The goods and services are purchased by, or on behalf of, the traveler or provided, without a quid pro quo, for the traveler to use or give away. These may include expenditures by residents traveling abroad as same-day visitors, except in cases where these are so important as to justify a separate classification. Excluded is the international carriage of travelers, which is covered in passenger travel items. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and data files.\n--------\nTopic: Private Sector & Trade: Travel & tourism\n",
+    "url": "https://data.worldbank.org/indicator/ST.INT.TVLX.CD?view=chart",
+    "description": "International tourism"
+}

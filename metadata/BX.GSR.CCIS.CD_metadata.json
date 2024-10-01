@@ -1,0 +1,6 @@
+{
+    "indicator": "BX.GSR.CCIS.CD",
+    "metadata": "========\nSeries: BX.GSR.CCIS.CD\n\nAggregationmethod: Sum\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: ICT service exports (BoP, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Information and communication technology service exports include computer and communications services (telecommunications and postal and courier services) and information services (computer data and news-related service transactions). Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Infrastructure: Communications\n",
+    "url": "https://data.worldbank.org/indicator/BX.GSR.CCIS.CD?view=chart",
+    "description": "ICT service exports (BoP"
+}

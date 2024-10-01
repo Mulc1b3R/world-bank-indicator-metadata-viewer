@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.STA.FGMS.ZS",
+    "metadata": "========\nSeries: SH.STA.FGMS.ZS\n\nGeneralcomments: This is the Sustainable Development Goal indicator 5.3.2[https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Female genital mutilation prevalence (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Percentage of women aged 15\u201349 who have gone through partial or total removal of the female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.\n--------\nPeriodicity: Annual\n--------\nSource: UNICEF DATA (http://www.data.unicef.org/);  Demographic and Health Surveys (DHS); Multiple Indicator Cluster Surveys (MICS), and other surveys.\n--------\nTopic: Health: Risk factors\n",
+    "url": "https://data.worldbank.org/indicator/SH.STA.FGMS.ZS?view=chart",
+    "description": "Female genital mutilation prevalence (%)"
+}

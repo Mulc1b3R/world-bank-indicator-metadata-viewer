@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.HIV.INCD.YG",
+    "metadata": "========\nSeries: SH.HIV.INCD.YG\n\nDevelopmentrelevance: Despite the existence of effective medications and treatment, HIV/AIDS is still a leading cause of death and public health threat in the world.  Low and middle income countries continue to bear a disproportionate share of the global burden of HIV/AIDS. The incidence rate provides a measure of progress toward preventing onward transmission of HIV. Also, the identification of newly infected persons will allow for interventions to reduce the risk of HIV transmission.\n--------\nGeneralcomments: This indicator is related to Sustainable Development Goal 3.3.1 [https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Young people (ages 15-24) newly infected with HIV\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Number of young people (ages 15-24) newly infected with HIV.\n--------\nPeriodicity: Annual\n--------\nSource: UNAIDS estimates.\n--------\nTopic: Health: Risk factors\n",
+    "url": "https://data.worldbank.org/indicator/SH.HIV.INCD.YG?view=chart",
+    "description": "Young people (ages 15-24) newly infected with HIV"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "SP.DYN.WFRT",
+    "metadata": "========\nSeries: SP.DYN.WFRT\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Wanted fertility rate (births per woman)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Wanted fertility rate is an estimate of what the total fertility rate would be if all unwanted births were avoided.\n--------\nPeriodicity: Annual\n--------\nSource: Demographic and Health Surveys.\n--------\nTopic: Health: Reproductive health\n",
+    "url": "https://data.worldbank.org/indicator/SP.DYN.WFRT?view=chart",
+    "description": "Wanted fertility rate (births per woman)"
+}

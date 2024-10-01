@@ -1,0 +1,6 @@
+{
+    "indicator": "BM.GSR.TRVL.ZS",
+    "metadata": "========\nSeries: BM.GSR.TRVL.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Travel services (% of service imports, BoP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Travel covers goods and services acquired from an economy by travelers for their own use during visits of less than one year in that economy for either business or personal purposes. Travel includes local transport (i.e., transport within the economy being visited and provided by a resident of that economy), but excludes international transport (which is included in passenger transport. Travel also excludes goods for resale, which are included in general merchandise.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Goods, services & income\n",
+    "url": "https://data.worldbank.org/indicator/BM.GSR.TRVL.ZS?view=chart",
+    "description": "Travel services (% of service imports"
+}

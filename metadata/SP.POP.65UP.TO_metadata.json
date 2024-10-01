@@ -1,0 +1,6 @@
+{
+    "indicator": "SP.POP.65UP.TO",
+    "metadata": "========\nSeries: SP.POP.65UP.TO\n\nAggregationmethod: Sum\n--------\nIndicatorName: Population ages 65 and above, total\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total population 65 years of age or older. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates using the World Bank's total population and age/sex distributions of the United Nations Population Division's World Population Prospects: 2022 Revision.\n--------\nTopic: Health: Population: Structure\n",
+    "url": "https://data.worldbank.org/indicator/SP.POP.65UP.TO?view=chart",
+    "description": "Population ages 65 and above"
+}

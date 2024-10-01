@@ -1,0 +1,6 @@
+{
+    "indicator": "BX.GSR.NFSV.CD",
+    "metadata": "========\nSeries: BX.GSR.NFSV.CD\n\nAggregationmethod: Gap-filled total\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards. Manufacturing services on physical inputs owned by others (goods for processing in BPM5) and maintenance and repair services n.i.e. are reclassified from goods to services.\n--------\nIndicatorName: Service exports (BoP, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Services refer to economic output of intangible commodities that may be produced, transferred, and consumed at the same time. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Goods, services & income\n",
+    "url": "https://data.worldbank.org/indicator/BX.GSR.NFSV.CD?view=chart",
+    "description": "Service exports (BoP"
+}

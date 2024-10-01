@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.DPPG.CD",
+    "metadata": "========\nSeries: DT.TDS.DPPG.CD\n\nAggregationmethod: Sum\n--------\nDataset: International Debt Statistics\n--------\nIndicatorName: Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Public and publicly guaranteed debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term obligations of public debtors and long-term private obligations guaranteed by a public entity. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Public and publicly guaranteed debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term obligations of public debtors and long-term private obligations guaranteed by a public entity. Data are in current U.S. dollars.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt service\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.DPPG.CD?view=chart",
+    "description": "Debt service on external debt"
+}

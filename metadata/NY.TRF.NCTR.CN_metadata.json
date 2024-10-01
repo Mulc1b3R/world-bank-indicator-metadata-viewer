@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.TRF.NCTR.CN",
+    "metadata": "========\nSeries: NY.TRF.NCTR.CN\n\nIndicatorName: Net secondary income (Net current transfers from abroad) (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net secondary income (from abroad) comprises transfers of income between residents of the reporting country and the rest of the world that carry no provisions for repayment. Net secondary income is equal to the unrequited transfers of income from nonresidents to residents minus the unrequited transfers from residents to nonresidents. Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.TRF.NCTR.CN?view=chart",
+    "description": "Net secondary income (Net current transfers from abroad) (current LCU)"
+}

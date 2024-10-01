@@ -1,0 +1,6 @@
+{
+    "indicator": "CC.STD.ERR",
+    "metadata": "========\nSeries: CC.STD.ERR\n\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nOthernotes: The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. These data are gathered from a number of survey institutes, think tanks, non-governmental organizations, international organizations, and private sector firms. The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.\n--------\nRelatedsourcelinks: Worldwide Governance Indicators website (https://info.worldbank.org/governance/wgi/)\n--------\nTopic: Public Sector: Policy & institutions\n",
+    "url": "https://data.worldbank.org/indicator/CC.STD.ERR?view=chart",
+    "description": "Control of Corruption: Standard Error"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "TM.VAL.MRCH.WL.CD",
+    "metadata": "========\nSeries: TM.VAL.MRCH.WL.CD\n\nAggregationmethod: Sum\n--------\nIndicatorName: Merchandise imports by the reporting economy (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Merchandise imports by the reporting economy are the total merchandise imports by the reporting economy from the rest of the world, as reported in the IMF's Direction of trade database. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based data from International Monetary Fund's Direction of Trade database.\n--------\nTopic: Private Sector & Trade: Imports\n",
+    "url": "https://data.worldbank.org/indicator/TM.VAL.MRCH.WL.CD?view=chart",
+    "description": "Merchandise imports by the reporting economy (current US$)"
+}

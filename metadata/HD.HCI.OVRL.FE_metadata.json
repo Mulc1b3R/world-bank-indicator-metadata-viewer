@@ -1,0 +1,6 @@
+{
+    "indicator": "HD.HCI.OVRL.FE",
+    "metadata": "========\nSeries: HD.HCI.OVRL.FE\n\nIndicatorName: Human capital index (HCI), female (scale 0-1)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The HCI calculates the contributions of health and education to worker productivity. The final index score ranges from zero to one and measures the productivity as a future worker of child born today relative to the benchmark of full health and complete education.\n--------\nRelatedindicators: Please visit the Human Capital Index (HCI) database (http://databank.worldbank.org/data/source/human-capital-index) for each of the components of the Human Capital Index as well as for the overall index, disaggregated by gender.\n--------\nSource: World Bank staff calculations based on the methodology described in World Bank (2018). https://openknowledge.worldbank.org/handle/10986/30498\n--------\nTopic: Public Sector: Policy & institutions\n",
+    "url": "https://data.worldbank.org/indicator/HD.HCI.OVRL.FE?view=chart",
+    "description": "Human capital index (HCI)"
+}

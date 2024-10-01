@@ -1,0 +1,6 @@
+{
+    "indicator": "SL.UEM.INTM.ZS",
+    "metadata": "========\nSeries: SL.UEM.INTM.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Unemployment with intermediate education (% of total labor force with intermediate education)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The percentage of the labor force with an intermediate level of education who are unemployed. Intermediate education comprises upper secondary or post-secondary non tertiary education according to the International Standard Classification of Education 2011 (ISCED 2011).\n--------\nPeriodicity: Annual\n--------\nSource: International Labour Organization. \u201cEducation and Mismatch Indicators database (EMI)\u201d ILOSTAT. Accessed September 06, 2024. https://ilostat.ilo.org/data/.\n--------\nTopic: Social Protection & Labor: Unemployment\n",
+    "url": "https://data.worldbank.org/indicator/SL.UEM.INTM.ZS?view=chart",
+    "description": "Unemployment with intermediate education (% of total labor force with intermediate education)"
+}

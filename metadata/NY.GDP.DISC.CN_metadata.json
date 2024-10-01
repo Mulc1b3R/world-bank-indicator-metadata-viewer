@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDP.DISC.CN",
+    "metadata": "========\nSeries: NY.GDP.DISC.CN\n\nIndicatorName: Discrepancy in expenditure estimate of GDP (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Discrepancy in expenditure estimate of GDP is the discrepancy included in final consumption expenditure, etc. (total consumption, etc.). This discrepancy is included to ensure that GDP from the expenditure side equals GDP measured by the income or output approach. Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.DISC.CN?view=chart",
+    "description": "Discrepancy in expenditure estimate of GDP (current LCU)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.STA.SUIC.MA.P5",
+    "metadata": "========\nSeries: SH.STA.SUIC.MA.P5\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: This is a sex-disaggregated indicator for Sustainable Development Goal 3.4.2[https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Suicide mortality rate, male (per 100,000 male population)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Suicide mortality rate is the number of suicide deaths in a year per 100,000 population. Crude suicide rate (not age-adjusted).\n--------\nPeriodicity: Annual\n--------\nSource: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).\n--------\nTopic: Health: Mortality\n",
+    "url": "https://data.worldbank.org/indicator/SH.STA.SUIC.MA.P5?view=chart",
+    "description": "Suicide mortality rate"
+}

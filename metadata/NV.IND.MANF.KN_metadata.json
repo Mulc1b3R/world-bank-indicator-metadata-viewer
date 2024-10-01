@@ -1,0 +1,6 @@
+{
+    "indicator": "NV.IND.MANF.KN",
+    "metadata": "========\nSeries: NV.IND.MANF.KN\n\nBasePeriod: varies by country\n--------\nGeneralcomments: Note: Data for OECD countries are based on ISIC, revision 4.\n--------\nIndicatorName: Manufacturing, value added (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Manufacturing refers to industries belonging to ISIC divisions 15-37. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Value added\n",
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.KN?view=chart",
+    "description": "Manufacturing"
+}

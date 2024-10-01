@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.NFL.PNGB.CD",
+    "metadata": "========\nSeries: DT.NFL.PNGB.CD\n\nAggregationmethod: Sum\n--------\nDataset: International Debt Statistics\n--------\nIndicatorName: PNG, bonds (NFL, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Nonguaranteed long-term debt from bonds that are privately placed. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Nonguaranteed long-term debt from bonds that are privately placed. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Net flows\n",
+    "url": "https://data.worldbank.org/indicator/DT.NFL.PNGB.CD?view=chart",
+    "description": "PNG"
+}

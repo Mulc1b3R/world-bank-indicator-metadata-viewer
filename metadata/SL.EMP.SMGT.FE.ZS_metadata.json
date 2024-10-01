@@ -1,0 +1,6 @@
+{
+    "indicator": "SL.EMP.SMGT.FE.ZS",
+    "metadata": "========\nSeries: SL.EMP.SMGT.FE.ZS\n\nDevelopmentrelevance: The indicator provides information on the proportion of women who are employed in decision-making and management roles in government, large enterprises and institutions.\n--------\nIndicatorName: Female share of employment in senior and middle management (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The proportion of females in total employment in senior and middle management. It corresponds to major group 1 in both ISCO-08 and ISCO-88 minus category 14 in ISCO-08 (hospitality, retail and other services managers) and minus category 13 in ISCO-88 (general managers), since these comprise mainly managers of small enterprises.\n--------\nPeriodicity: Annual\n--------\nSource: International Labour Organization. \u201cLabour Market-related SDG Indicators database (ILOSDG)\u201d ILOSTAT. Accessed September 06, 2024. https://ilostat.ilo.org/data/.\n--------\nTopic: Social Protection & Labor: Economic activity\n",
+    "url": "https://data.worldbank.org/indicator/SL.EMP.SMGT.FE.ZS?view=chart",
+    "description": "Female share of employment in senior and middle management (%)"
+}

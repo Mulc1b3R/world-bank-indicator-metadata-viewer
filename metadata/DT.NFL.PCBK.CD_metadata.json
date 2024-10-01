@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.NFL.PCBK.CD",
+    "metadata": "========\nSeries: DT.NFL.PCBK.CD\n\nAggregationmethod: Sum\n--------\nDataset: International Debt Statistics\n--------\nIndicatorName: PPG, commercial banks (NFL, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Public and publicly guaranteed commercial bank loans from private banks and other private financial institutions. Net flows (or net lending or net disbursements) received by the borrower during the year are disbursements minus principal repayments. Data are in current U.S. dollars.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Net flows\n",
+    "url": "https://data.worldbank.org/indicator/DT.NFL.PCBK.CD?view=chart",
+    "description": "PPG"
+}

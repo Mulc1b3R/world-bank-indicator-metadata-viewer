@@ -1,0 +1,6 @@
+{
+    "indicator": "ER.FSH.PROD.MT",
+    "metadata": "========\nSeries: ER.FSH.PROD.MT\n\nAggregationmethod: Sum\n--------\nIndicatorName: Total fisheries production (metric tons)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total fisheries production measures the volume of aquatic species caught by a country for all commercial, industrial, recreational and subsistence purposes. The harvest from mariculture, aquaculture and other kinds of fish farming is also included.\n--------\nPeriodicity: Annual\n--------\nSource: Food and Agriculture Organization.\n--------\nTopic: Environment: Agricultural production\n",
+    "url": "https://data.worldbank.org/indicator/ER.FSH.PROD.MT?view=chart",
+    "description": "Total fisheries production (metric tons)"
+}

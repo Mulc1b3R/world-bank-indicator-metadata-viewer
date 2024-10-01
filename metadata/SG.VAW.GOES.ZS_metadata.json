@@ -1,0 +1,6 @@
+{
+    "indicator": "SG.VAW.GOES.ZS",
+    "metadata": "========\nSeries: SG.VAW.GOES.ZS\n\nIndicatorName: Women who believe a husband is justified in beating his wife when she goes out without telling him (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Percentage of women ages 15-49 who believe a husband/partner is justified in hitting or beating his wife/partner when she goes out without telling him.\n--------\nPeriodicity: Annual\n--------\nSource: Demographic and Health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), and other surveys\n--------\nTopic: Gender: Health\n",
+    "url": "https://data.worldbank.org/indicator/SG.VAW.GOES.ZS?view=chart",
+    "description": "Women who believe a husband is justified in beating his wife when she goes out without telling him (%)"
+}

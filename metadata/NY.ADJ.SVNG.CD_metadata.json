@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.SVNG.CD",
+    "metadata": "========\nSeries: NY.ADJ.SVNG.CD\n\nIndicatorName: Adjusted net savings, including particulate emission damage (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide and particulate emissions damage.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.SVNG.CD?view=chart",
+    "description": "Adjusted net savings"
+}

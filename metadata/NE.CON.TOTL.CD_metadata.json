@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.CON.TOTL.CD",
+    "metadata": "========\nSeries: NE.CON.TOTL.CD\n\nIndicatorName: Final consumption expenditure (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Final consumption expenditure (formerly total consumption) is the sum of household final consumption expenditure (private consumption) and general government final consumption expenditure (general government consumption). Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: US$ at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.CON.TOTL.CD?view=chart",
+    "description": "Final consumption expenditure (current US$)"
+}

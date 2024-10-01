@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.GDI.STKB.CD",
+    "metadata": "========\nSeries: NE.GDI.STKB.CD\n\nIndicatorName: Changes in inventories (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Inventories are stocks of goods held by firms to meet temporary or unexpected fluctuations in production or sales, and \"work in progress.\" Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: US$ at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.GDI.STKB.CD?view=chart",
+    "description": "Changes in inventories (current US$)"
+}

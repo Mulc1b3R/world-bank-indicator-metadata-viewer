@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.AST.PRVT.ZG.M3",
+    "metadata": "========\nSeries: FM.AST.PRVT.ZG.M3\n\nIndicatorName: Claims on private sector (annual growth as % of broad money)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Claims on private sector (IFS line 32D..ZK or 32D..ZF) include gross credit from the financial system to individuals, enterprises, nonfinancial public entities not included under net domestic credit, and financial institutions not included elsewhere.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FM.AST.PRVT.ZG.M3?view=chart",
+    "description": "Claims on private sector (annual growth as % of broad money)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.DECT.CD",
+    "metadata": "========\nSeries: DT.TDS.DECT.CD\n\nAggregationmethod: Sum\n--------\nDataset: International Debt Statistics\n--------\nIndicatorName: Debt service on external debt, total (TDS, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF. Data are in current U.S. dollars.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt service\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.DECT.CD?view=chart",
+    "description": "Debt service on external debt"
+}

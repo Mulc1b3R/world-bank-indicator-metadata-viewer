@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GNS.ICTR.GN.ZS",
+    "metadata": "========\nSeries: NY.GNS.ICTR.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Gross savings (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross savings are calculated as gross national income less total consumption, plus net transfers.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Shares of GDP & other\n",
+    "url": "https://data.worldbank.org/indicator/NY.GNS.ICTR.GN.ZS?view=chart",
+    "description": "Gross savings (% of GNI)"
+}

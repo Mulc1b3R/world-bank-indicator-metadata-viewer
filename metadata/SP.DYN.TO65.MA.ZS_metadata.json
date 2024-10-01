@@ -1,0 +1,6 @@
+{
+    "indicator": "SP.DYN.TO65.MA.ZS",
+    "metadata": "========\nSeries: SP.DYN.TO65.MA.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Survival to age 65, male (% of cohort)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Survival to age 65 refers to the percentage of a cohort of newborn infants that would survive to age 65, if subject to age specific mortality rates of the specified year.\n--------\nPeriodicity: Annual\n--------\nSource: United Nations Population Division. World Population Prospects: 2022 Revision.\n--------\nTopic: Health: Mortality\n",
+    "url": "https://data.worldbank.org/indicator/SP.DYN.TO65.MA.ZS?view=chart",
+    "description": "Survival to age 65"
+}

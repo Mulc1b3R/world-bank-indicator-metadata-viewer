@@ -1,0 +1,6 @@
+{
+    "indicator": "BN.GSR.GNFS.CD",
+    "metadata": "========\nSeries: BN.GSR.GNFS.CD\n\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Net trade in goods and services (BoP, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Net trade in goods and services is derived by offsetting imports of goods and services against exports of goods and services. Exports and imports of goods and services comprise all transactions involving a change of ownership of goods and services between residents of one country and the rest of the world. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Balances\n",
+    "url": "https://data.worldbank.org/indicator/BN.GSR.GNFS.CD?view=chart",
+    "description": "Net trade in goods and services (BoP"
+}

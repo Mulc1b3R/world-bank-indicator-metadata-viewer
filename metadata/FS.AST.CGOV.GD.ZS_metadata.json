@@ -1,0 +1,6 @@
+{
+    "indicator": "FS.AST.CGOV.GD.ZS",
+    "metadata": "========\nSeries: FS.AST.CGOV.GD.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Claims on central government, etc. (% GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Claims on central government (IFS line 52AN or 32AN) include loans to central government institutions net of deposits.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Financial Sector: Assets\n",
+    "url": "https://data.worldbank.org/indicator/FS.AST.CGOV.GD.ZS?view=chart",
+    "description": "Claims on central government"
+}

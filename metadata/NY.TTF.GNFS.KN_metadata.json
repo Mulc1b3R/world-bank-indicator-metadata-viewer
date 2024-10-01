@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.TTF.GNFS.KN",
+    "metadata": "========\nSeries: NY.TTF.GNFS.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Terms of trade adjustment (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: The terms of trade effect equals capacity to import less exports of goods and services in constant prices. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Other items\n",
+    "url": "https://data.worldbank.org/indicator/NY.TTF.GNFS.KN?view=chart",
+    "description": "Terms of trade adjustment (constant LCU)"
+}

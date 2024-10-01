@@ -1,0 +1,6 @@
+{
+    "indicator": "BN.CAB.XOKA.GD.ZS",
+    "metadata": "========\nSeries: BN.CAB.XOKA.GD.ZS\n\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Current account balance (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Current account balance is the sum of net exports of goods and services, net primary income, and net secondary income.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Balances\n",
+    "url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS?view=chart",
+    "description": "Current account balance (% of GDP)"
+}

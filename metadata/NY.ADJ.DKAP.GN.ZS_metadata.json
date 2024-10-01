@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.DKAP.GN.ZS",
+    "metadata": "========\nSeries: NY.ADJ.DKAP.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Adjusted savings: consumption of fixed capital (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Consumption of fixed capital represents the replacement value of capital used up in the process of production.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates using data from the United Nations Statistics Division's National Accounts Statistics.\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.DKAP.GN.ZS?view=chart",
+    "description": "Adjusted savings: consumption of fixed capital (% of GNI)"
+}

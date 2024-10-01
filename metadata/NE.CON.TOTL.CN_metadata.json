@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.CON.TOTL.CN",
+    "metadata": "========\nSeries: NE.CON.TOTL.CN\n\nIndicatorName: Final consumption expenditure (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Final consumption expenditure (formerly total consumption) is the sum of household final consumption expenditure (private consumption) and general government final consumption expenditure (general government consumption). Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.CON.TOTL.CN?view=chart",
+    "description": "Final consumption expenditure (current LCU)"
+}

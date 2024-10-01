@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.ANM.ALLW.ZS",
+    "metadata": "========\nSeries: SH.ANM.ALLW.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Prevalence of anemia among women of reproductive age (% of women ages 15-49)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Prevalence of anemia among women of reproductive age refers to the combined prevalence of both non-pregnant with haemoglobin levels below 12 g/dL and pregnant women with haemoglobin levels below 11 g/dL.\n--------\nPeriodicity: Annual\n--------\nSource: World Health Organization, Global Health Observatory Data Repository/World Health Statistics.\n--------\nTopic: Health: Nutrition\n",
+    "url": "https://data.worldbank.org/indicator/SH.ANM.ALLW.ZS?view=chart",
+    "description": "Prevalence of anemia among women of reproductive age (% of women ages 15-49)"
+}

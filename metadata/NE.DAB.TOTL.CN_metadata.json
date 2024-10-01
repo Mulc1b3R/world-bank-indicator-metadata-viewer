@@ -1,0 +1,6 @@
+{
+    "indicator": "NE.DAB.TOTL.CN",
+    "metadata": "========\nSeries: NE.DAB.TOTL.CN\n\nIndicatorName: Gross national expenditure (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross national expenditure (formerly domestic absorption) is the sum of household final consumption expenditure (formerly private consumption), general government final consumption expenditure (formerly general government consumption), and gross capital formation (formerly gross domestic investment). Data are in current local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at current prices: Expenditure on GDP\n",
+    "url": "https://data.worldbank.org/indicator/NE.DAB.TOTL.CN?view=chart",
+    "description": "Gross national expenditure (current LCU)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "EN.ATM.CO2E.KD.GD",
+    "metadata": "========\nSeries: EN.ATM.CO2E.KD.GD\n\nAggregationmethod: Weighted average\n--------\nBasePeriod: 2015\n--------\nIndicatorName: CO2 emissions (kg per 2015 US$ of GDP)\n--------\nLicense_Type: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)\n--------\nLicense_URL: https://creativecommons.org/licenses/by-nc/4.0/\n--------\nLongdefinition: Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.\n--------\nPeriodicity: Annual\n--------\nSource: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available at:\u00a0https://www.climatewatchdata.org/ghg-emissions. See NY.GDP.MKTP.KD for the denominator's source.\n--------\nTopic: Environment: Emissions\n",
+    "url": "https://data.worldbank.org/indicator/EN.ATM.CO2E.KD.GD?view=chart",
+    "description": "CO2 emissions (kg per 2015 US$ of GDP)"
+}

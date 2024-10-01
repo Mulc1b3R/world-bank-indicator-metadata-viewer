@@ -1,0 +1,6 @@
+{
+    "indicator": "BG.GSR.NFSV.GD.ZS",
+    "metadata": "========\nSeries: BG.GSR.NFSV.GD.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Trade in services (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Trade in services is the sum of service exports and imports divided by the value of GDP, all in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Goods, services & income\n",
+    "url": "https://data.worldbank.org/indicator/BG.GSR.NFSV.GD.ZS?view=chart",
+    "description": "Trade in services (% of GDP)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.TAX.NIND.KN",
+    "metadata": "========\nSeries: NY.TAX.NIND.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Taxes less subsidies on products (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Taxes less subsidies on products (net indirect taxes) are the sum of product taxes less subsidies. Product taxes are those taxes payable by producers that relate to the production, sale, purchase or use of the goods and services. Subsidies are grants on the current account made by general government to private enterprises and unincorporated public enterprises. The grants may take the form of payments to ensure a guaranteed price or to enable maintenance of prices of goods and services below costs of production, and other forms of assistance to producers. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Aggregate indicators\n",
+    "url": "https://data.worldbank.org/indicator/NY.TAX.NIND.KN?view=chart",
+    "description": "Taxes less subsidies on products (constant LCU)"
+}

@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.TDS.DPPG.XP.ZS",
+    "metadata": "========\nSeries: DT.TDS.DPPG.XP.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Public and publicly guaranteed debt service (% of exports of goods, services and primary income)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Public and publicly guaranteed debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term obligations of public debtors and long-term private obligations guaranteed by a public entity. Exports refer to exports of goods, services, and income.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank.\n--------\nTopic: Economic Policy & Debt: External debt: Debt ratios & other items\n",
+    "url": "https://data.worldbank.org/indicator/DT.TDS.DPPG.XP.ZS?view=chart",
+    "description": "Public and publicly guaranteed debt service (% of exports of goods"
+}

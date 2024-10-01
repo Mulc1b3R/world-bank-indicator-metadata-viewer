@@ -1,0 +1,6 @@
+{
+    "indicator": "EG.FEC.RNEW.ZS",
+    "metadata": "========\nSeries: EG.FEC.RNEW.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Renewable energy consumption (% of total final energy consumption)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Renewable energy consumption is the share of renewables energy in total final energy consumption.\n--------\nPeriodicity: Annual\n--------\nSource: IEA, IRENA, UNSD, World Bank, WHO. 2023. Tracking SDG 7: The Energy Progress Report. World Bank, Washington DC. \u00a9 World Bank. License: Creative Commons Attribution\u2014NonCommercial 3.0 IGO (CC BY-NC 3.0 IGO).\n--------\nTopic: Environment: Energy production & use\n",
+    "url": "https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS?view=chart",
+    "description": "Renewable energy consumption (% of total final energy consumption)"
+}

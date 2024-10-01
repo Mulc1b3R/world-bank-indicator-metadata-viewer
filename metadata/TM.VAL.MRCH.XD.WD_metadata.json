@@ -1,0 +1,6 @@
+{
+    "indicator": "TM.VAL.MRCH.XD.WD",
+    "metadata": "========\nSeries: TM.VAL.MRCH.XD.WD\n\nBasePeriod: 2015\n--------\nIndicatorName: Import value index (2015 = 100)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Import value indexes are the current value of imports (c.i.f.) converted to U.S. dollars and expressed as a percentage of the average for the base period (2015). UNCTAD's import value indexes are reported for most economies.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Import value indexes are the current value of imports (c.i.f.) converted to U.S. dollars and expressed as a percentage of the average for the base period (2015). UNCTAD's import value indexes are reported for most economies.\n--------\nSource: United Nations Conference on Trade and Development\n--------\nTopic: Trade\n",
+    "url": "https://data.worldbank.org/indicator/TM.VAL.MRCH.XD.WD?view=chart",
+    "description": "Import value index (2015 = 100)"
+}

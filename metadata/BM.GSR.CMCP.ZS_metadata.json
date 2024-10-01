@@ -1,0 +1,6 @@
+{
+    "indicator": "BM.GSR.CMCP.ZS",
+    "metadata": "========\nSeries: BM.GSR.CMCP.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: Note: Data are based on the sixth edition of the IMF's Balance of Payments Manual (BPM6) and are only available from 2005 onwards.\n--------\nIndicatorName: Communications, computer, etc. (% of service imports, BoP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Communications, computer, information, and other services cover international telecommunications; computer data; news-related service transactions between residents and nonresidents; construction services; royalties and license fees; miscellaneous business, professional, and technical services; personal, cultural, and recreational services; manufacturing services on physical inputs owned by others; and maintenance and repair services and government services not included elsewhere.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, Balance of Payments Statistics Yearbook and data files.\n--------\nTopic: Economic Policy & Debt: Balance of payments: Current account: Goods, services & income\n",
+    "url": "https://data.worldbank.org/indicator/BM.GSR.CMCP.ZS?view=chart",
+    "description": "Communications"
+}

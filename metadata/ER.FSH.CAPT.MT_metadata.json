@@ -1,0 +1,6 @@
+{
+    "indicator": "ER.FSH.CAPT.MT",
+    "metadata": "========\nSeries: ER.FSH.CAPT.MT\n\nAggregationmethod: Sum\n--------\nIndicatorName: Capture fisheries production (metric tons)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Capture fisheries production measures the volume of fish catches landed by a country for all commercial, industrial, recreational and subsistence purposes.\n--------\nPeriodicity: Annual\n--------\nSource: Food and Agriculture Organization.\n--------\nTopic: Environment: Agricultural production\n",
+    "url": "https://data.worldbank.org/indicator/ER.FSH.CAPT.MT?view=chart",
+    "description": "Capture fisheries production (metric tons)"
+}

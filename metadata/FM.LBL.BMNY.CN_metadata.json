@@ -1,0 +1,6 @@
+{
+    "indicator": "FM.LBL.BMNY.CN",
+    "metadata": "========\nSeries: FM.LBL.BMNY.CN\n\nIndicatorName: Broad money (current LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Broad money (IFS line 35L..ZK) is the sum of currency outside banks; demand deposits other than those of the central government; the time, savings, and foreign currency deposits of resident sectors other than the central government; bank and traveler\u2019s checks; and other securities such as certificates of deposit and commercial paper.\n--------\nPeriodicity: Annual\n--------\nSource: International Monetary Fund, International Financial Statistics and data files.\n--------\nTopic: Financial Sector: Monetary holdings (liabilities)\n",
+    "url": "https://data.worldbank.org/indicator/FM.LBL.BMNY.CN?view=chart",
+    "description": "Broad money (current LCU)"
+}

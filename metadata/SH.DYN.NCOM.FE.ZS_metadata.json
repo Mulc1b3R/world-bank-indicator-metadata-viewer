@@ -1,0 +1,6 @@
+{
+    "indicator": "SH.DYN.NCOM.FE.ZS",
+    "metadata": "========\nSeries: SH.DYN.NCOM.FE.ZS\n\nAggregationmethod: Weighted average\n--------\nGeneralcomments: This is a sex-disaggregated indicator for Sustainable Development Goal 3.4.1 [https://unstats.un.org/sdgs/metadata/].\n--------\nIndicatorName: Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Mortality from CVD, cancer, diabetes or CRD is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes,  or chronic respiratory disease, assuming that s/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g., injuries or HIV/AIDS).\n--------\nPeriodicity: Annual\n--------\nSource: World Health Organization, Global Health Observatory Data Repository (http://apps.who.int/ghodata/).\n--------\nTopic: Health: Mortality\n",
+    "url": "https://data.worldbank.org/indicator/SH.DYN.NCOM.FE.ZS?view=chart",
+    "description": "Mortality from CVD"
+}

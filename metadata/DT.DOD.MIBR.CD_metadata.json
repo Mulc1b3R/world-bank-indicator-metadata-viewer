@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.DOD.MIBR.CD",
+    "metadata": "========\nSeries: DT.DOD.MIBR.CD\n\nAggregationmethod: Sum\n--------\nDataset: International Debt Statistics\n--------\nIndicatorName: PPG, IBRD (DOD, current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 35 percent or more. Data are in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nShortdefinition: Public and publicly guaranteed debt outstanding from the International Bank for Reconstruction and Development (IBRD) is nonconcessional. Nonconcessional debt excludes loans with an original grant element of 35 percent or more. Data are in current U.S. dollars.\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt outstanding\n",
+    "url": "https://data.worldbank.org/indicator/DT.DOD.MIBR.CD?view=chart",
+    "description": "PPG"
+}

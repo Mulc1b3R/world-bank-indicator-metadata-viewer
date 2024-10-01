@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GDY.TOTL.KN",
+    "metadata": "========\nSeries: NY.GDY.TOTL.KN\n\nBasePeriod: varies by country\n--------\nIndicatorName: Gross domestic income (constant LCU)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross domestic income is derived as the sum of GDP and the terms of trade adjustment. Data are in constant local currency.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nTopic: Economic Policy & Debt: National accounts: Local currency at constant prices: Other items\n",
+    "url": "https://data.worldbank.org/indicator/NY.GDY.TOTL.KN?view=chart",
+    "description": "Gross domestic income (constant LCU)"
+}

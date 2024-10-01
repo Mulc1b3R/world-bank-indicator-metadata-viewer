@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.SVNX.GN.ZS",
+    "metadata": "========\nSeries: NY.ADJ.SVNX.GN.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Adjusted net savings, excluding particulate emission damage (% of GNI)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide. This series excludes particulate emissions damage.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.SVNX.GN.ZS?view=chart",
+    "description": "Adjusted net savings"
+}

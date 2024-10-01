@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.GNS.ICTR.ZS",
+    "metadata": "========\nSeries: NY.GNS.ICTR.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Gross savings (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Gross savings are calculated as gross national income less total consumption, plus net transfers.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank national accounts data, and OECD National Accounts data files.\n--------\nStatisticalconceptandmethodology: Gross savings represent the difference between disposable income and consumption and replace gross domestic savings, a concept used by the World Bank and included in World Development Indicators editions before 2006. The change was made to conform to SNA concepts and definitions.\n--------\nTopic: Economic Policy & Debt: National accounts: Shares of GDP & other\n",
+    "url": "https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS?view=chart",
+    "description": "Gross savings (% of GDP)"
+}

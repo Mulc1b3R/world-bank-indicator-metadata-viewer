@@ -1,0 +1,6 @@
+{
+    "indicator": "DT.DOD.DSTC.XP.ZS",
+    "metadata": "========\nSeries: DT.DOD.DSTC.XP.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Short-term debt (% of exports of goods, services and primary income)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank, International Debt Statistics.\n--------\nTopic: Economic Policy & Debt: External debt: Debt ratios & other items\n",
+    "url": "https://data.worldbank.org/indicator/DT.DOD.DSTC.XP.ZS?view=chart",
+    "description": "Short-term debt (% of exports of goods"
+}

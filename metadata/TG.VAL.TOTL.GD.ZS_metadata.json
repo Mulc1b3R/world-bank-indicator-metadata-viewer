@@ -1,0 +1,6 @@
+{
+    "indicator": "TG.VAL.TOTL.GD.ZS",
+    "metadata": "========\nSeries: TG.VAL.TOTL.GD.ZS\n\nAggregationmethod: Weighted average\n--------\nIndicatorName: Merchandise trade (% of GDP)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Merchandise trade as a share of GDP is the sum of merchandise exports and imports divided by the value of GDP, all in current U.S. dollars.\n--------\nPeriodicity: Annual\n--------\nSource: World Trade Organization, and World Bank GDP estimates.\n--------\nTopic: Private Sector & Trade: Total merchandise trade\n",
+    "url": "https://data.worldbank.org/indicator/TG.VAL.TOTL.GD.ZS?view=chart",
+    "description": "Merchandise trade (% of GDP)"
+}

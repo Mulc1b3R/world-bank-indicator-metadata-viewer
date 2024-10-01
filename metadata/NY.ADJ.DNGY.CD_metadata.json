@@ -1,0 +1,6 @@
+{
+    "indicator": "NY.ADJ.DNGY.CD",
+    "metadata": "========\nSeries: NY.ADJ.DNGY.CD\n\nIndicatorName: Adjusted savings: energy depletion (current US$)\n--------\nLicense_Type: CC BY-4.0\n--------\nLicense_URL: https://datacatalog.worldbank.org/public-licenses#cc-by\n--------\nLongdefinition: Energy depletion is the ratio of the value of the stock of energy resources to the remaining reserve lifetime (capped at 25 years). It covers coal, crude oil, and natural gas.\n--------\nPeriodicity: Annual\n--------\nSource: World Bank staff estimates based on sources and methods in World Bank's \"The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium\" (2011).\n--------\nTopic: Economic Policy & Debt: National accounts: Adjusted savings & income\n",
+    "url": "https://data.worldbank.org/indicator/NY.ADJ.DNGY.CD?view=chart",
+    "description": "Adjusted savings: energy depletion (current US$)"
+}
